@@ -1,0 +1,23 @@
+{
+  "rows": 4331,
+  "columns": 21,
+  "inputs": 18,
+  "old_columns_changes": [
+    [
+      "2026-10-09",
+      "y_brent_settlement"
+    ],
+    [
+      "2026-10-12",
+      "brent_latest_settlement"
+    ]
+  ],
+  "new_inputs": 10,
+  "labels": 4330,
+  "trace_rows": 77958,
+  "all_availability_before_cutoff": true,
+  "all_times_certified": false,
+  "original_indicators_in_panel": 16,
+  "original_indicators_deferred": 16,
+  "normalization_issues": 5
+}

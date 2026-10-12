@@ -1,0 +1,2 @@
+# Preserve data snapshot bytes and SHA-256 across Windows/Linux checkouts.
+data/aligned/v2/** -text

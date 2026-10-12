@@ -1,0 +1,21 @@
+{
+  "result": "passed",
+  "rows": 4331,
+  "trace_rows": 77958,
+  "source_files_hash_verified": 3241,
+  "independent_boundary_checks": 197,
+  "raw_csv_cell_checks": 120,
+  "missing_records_not_skipped": 116,
+  "old_columns_changes": [
+    [
+      "2026-10-09",
+      "y_brent_settlement"
+    ],
+    [
+      "2026-10-12",
+      "brent_latest_settlement"
+    ]
+  ],
+  "dst_boundary_checked": true,
+  "historical_time_certification": "conditional assumptions remain, not fully certified"
+}

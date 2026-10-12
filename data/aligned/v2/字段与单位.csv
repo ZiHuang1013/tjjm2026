@@ -1,0 +1,24 @@
+﻿column,meaning,unit
+target_date,预测的ICE Brent交易日期；2010-2025仅采用Wind有结算记录日期，2026按官方日历,日期
+information_cutoff_bjt,目标日北京时间12:00官方截止边界；输入可用时刻严格早于该边界,ISO8601 +08:00
+brent_latest_settlement,Wind布伦特连续期货结算价；美元/桶。结算价与收盘价概念不同。,美元/桶
+vix_close,VIX收盘字段CLOSE；标普500期权对应30天年化隐含波动率，20表示20%。,"年化隐含波动率百分数
+（20=20%）"
+ovx_close,OVX日值；USO ETF期权对应30天年化隐含波动率，20表示20%；不是Brent自身波动率。,"年化隐含波动率百分数
+（20=20%）"
+us_commercial_crude_stocks,商业原油库存，千桶；排除战略石油储备SPR；统计周结束时点存量。；EIA按档案当期值，可能不同于Wind最新历史版本,千桶
+us_gasoline_stocks,汽油库存，千桶；统计周结束时点存量，不能当作周消费量。；EIA按档案当期值，可能不同于Wind最新历史版本,千桶
+us_distillate_stocks,馏分燃料油库存，千桶；统计周结束时点存量，不是原油库存。；EIA按档案当期值，可能不同于Wind最新历史版本,千桶
+us_refinery_utilization,炼厂利用率：炼厂总投入量除以可操作蒸馏能力，百分数。；EIA按档案当期值，可能不同于Wind最新历史版本,%
+us_crude_production,美国原油产量，包含租区凝析油；千桶/日，为周内日均流量。；EIA按档案当期值，可能不同于Wind最新历史版本,千桶/天
+y_brent_settlement,目标日原始Wind连续结算价，未重新复权；源缺失保留空白,美元/桶
+wti_latest_futures_settlement,ICE WTI连续期货交易日结算值；不是现货,美元/桶
+ny_ultra_low_sulfur_diesel_spot,EIA WPSR附表中的逐日现货报价；不是周/月均价，非全天逐笔成交,美元/加仑
+ny_regular_gasoline_spot,EIA WPSR附表中的逐日现货报价；不是周/月均价，非全天逐笔成交,美元/加仑
+us_crude_imports,周五结束统计周的美国原油进出口日均量，千桶/日；进口按Table1含SPR口径,千桶/日
+us_crude_exports,周五结束统计周的美国原油进出口日均量，千桶/日；进口按Table1含SPR口径,千桶/日
+us_nonfarm_change_released,CES当月包含12日的工资期；非农就业人数较上月变化，季调，千人,千人
+us_cpi_yoy_nsa_released,当月CPI-U全项目同比变化，未季调，%,%
+us_unemployment_rate_released,CPS当月包含12日的参考周，16岁以上失业率，季调，%,%
+wti_cushing_spot,逐日Cushing WTI现货报价,美元/桶
+fed_broad_usd_index,H10每份周报中的日度广义美元指数；2019-06-24新口径公布后开始,2006年1月=100

@@ -1,0 +1,12 @@
+{
+  "result": "passed",
+  "identical_files": 6,
+  "sha256": {
+    "基础建模_扩展对齐_v2.csv": "3b69365ea898ee763f968f9e126cc345697b51fa598d224f6faba9d5edd76165",
+    "逐行输入来源追溯.csv": "2e48b39641b70ca4e49eb19df31f864fc2b8adcfb2a7a6e0f41a5a171dc46e36",
+    "全部指标时间规则与纳入依据.csv": "3b98fe55093b8f911016570ea7f7799b3d7452c894ae8aab7a071f031ff831b9",
+    "字段与单位.csv": "3ffa0cd670da621c16bcf90bf7273c7a29b410819707679cee7353f4648f1beb",
+    "目标日期与目标值审计.csv": "f537379e10ac48aeabb1e1acc2c9ebc32acfd7ee9b911896880f1cac51341b75",
+    "各输入覆盖情况.csv": "708f3a9426a0a08357e89669a513d3517876538c47fe606f909e657b85bea638"
+  }
+}
