@@ -2,7 +2,7 @@
   "snapshot_date": "2026-10-12",
   "data_version": "v2",
   "status": "historical_conditional_not_fully_certified",
-  "rows": 4331,
+  "rows": 4332,
   "columns": 21,
   "input_columns": [
     "brent_latest_settlement",
@@ -24,95 +24,82 @@
     "wti_cushing_spot",
     "fed_broad_usd_index"
   ],
-  "trace_rows": 77958,
+  "trace_rows": 77976,
   "files": [
-    {
-      "file": "基础建模_扩展对齐_v2.csv",
-      "bytes": 623779,
-      "sha256": "3b69365ea898ee763f968f9e126cc345697b51fa598d224f6faba9d5edd76165",
-      "original_local_sha256": "3b69365ea898ee763f968f9e126cc345697b51fa598d224f6faba9d5edd76165",
-      "path_labels_normalized": false,
-      "matches_historical_reproduction": true
-    },
-    {
-      "file": "字段与单位.csv",
-      "bytes": 2781,
-      "sha256": "3ffa0cd670da621c16bcf90bf7273c7a29b410819707679cee7353f4648f1beb",
-      "original_local_sha256": "3ffa0cd670da621c16bcf90bf7273c7a29b410819707679cee7353f4648f1beb",
-      "path_labels_normalized": false,
-      "matches_historical_reproduction": true
-    },
-    {
-      "file": "全部指标时间规则与纳入依据.csv",
-      "bytes": 22104,
-      "sha256": "9662d87a802b039f924e22e60e2070376b5a7e28bec28f590ce3090501f36a8c",
-      "original_local_sha256": "65c258bfec663261f4029e0f6d22917b87421738a87faf76db9935bd89f01e8c",
-      "path_labels_normalized": true,
-      "matches_historical_reproduction": false
-    },
-    {
-      "file": "各输入覆盖情况.csv",
-      "bytes": 1022,
-      "sha256": "708f3a9426a0a08357e89669a513d3517876538c47fe606f909e657b85bea638",
-      "original_local_sha256": "708f3a9426a0a08357e89669a513d3517876538c47fe606f909e657b85bea638",
-      "path_labels_normalized": false,
-      "matches_historical_reproduction": true
-    },
-    {
-      "file": "逐行输入来源追溯.csv",
-      "bytes": 24295666,
-      "sha256": "f12908c02ce11e0d462257d47b5eaf014b673a19284ce8eb34ba990b4db30f6d",
-      "original_local_sha256": "2e48b39641b70ca4e49eb19df31f864fc2b8adcfb2a7a6e0f41a5a171dc46e36",
-      "path_labels_normalized": true,
-      "matches_historical_reproduction": true
-    },
-    {
-      "file": "目标日期与目标值审计.csv",
-      "bytes": 773438,
-      "sha256": "6dc984b6cb71d3c368d5b685e9fde9ab328c8fe535bc48ca115eeda76c570781",
-      "original_local_sha256": "f537379e10ac48aeabb1e1acc2c9ebc32acfd7ee9b911896880f1cac51341b75",
-      "path_labels_normalized": true,
-      "matches_historical_reproduction": true
-    },
-    {
-      "file": "边界日期独立抽查.csv",
-      "bytes": 18959,
-      "sha256": "3db6eb5d92fa72145f7dd43c56efbf806929b253696c0e515b51e77bbe4c77ed",
-      "original_local_sha256": "3db6eb5d92fa72145f7dd43c56efbf806929b253696c0e515b51e77bbe4c77ed",
-      "path_labels_normalized": false,
-      "matches_historical_reproduction": null
-    },
-    {
-      "file": "使用说明与核验结论.md",
-      "bytes": 11243,
-      "sha256": "4ef75f0b012c189d7e8e169252f89a5228df04707d6f58964df4f3fa7a1eb4d9",
-      "original_local_sha256": "4ef75f0b012c189d7e8e169252f89a5228df04707d6f58964df4f3fa7a1eb4d9",
-      "path_labels_normalized": false,
-      "matches_historical_reproduction": null
-    },
-    {
-      "file": "validation_summary.json",
-      "bytes": 469,
-      "sha256": "5ac0277aaec6147ddc548138894c404c235d07340fa406efe2a837f4963e2485",
-      "original_local_sha256": "5ac0277aaec6147ddc548138894c404c235d07340fa406efe2a837f4963e2485",
-      "path_labels_normalized": false,
-      "matches_historical_reproduction": null
-    },
     {
       "file": "independent_validation.json",
       "bytes": 505,
-      "sha256": "a82b5a56b6c346cf6e96899b7cc2862cb060d61e90d85cc3294b33d6db886ca2",
-      "original_local_sha256": "a82b5a56b6c346cf6e96899b7cc2862cb060d61e90d85cc3294b33d6db886ca2",
-      "path_labels_normalized": false,
-      "matches_historical_reproduction": null
+      "sha256": "a82b5a56b6c346cf6e96899b7cc2862cb060d61e90d85cc3294b33d6db886ca2"
+    },
+    {
+      "file": "README.md",
+      "bytes": 5115,
+      "sha256": "6f1fc6adada6563b9d83fe883e73d66c1d8e08727d3c61c3a39ff5cc05ab376b"
     },
     {
       "file": "reproduction_validation.json",
       "bytes": 714,
-      "sha256": "2293bbb7758c76d1c64075163346438315aaad624250acd8507f5298985dbc18",
-      "original_local_sha256": "2293bbb7758c76d1c64075163346438315aaad624250acd8507f5298985dbc18",
-      "path_labels_normalized": false,
-      "matches_historical_reproduction": null
+      "sha256": "2293bbb7758c76d1c64075163346438315aaad624250acd8507f5298985dbc18"
+    },
+    {
+      "file": "update_validation_20261013.json",
+      "bytes": 320,
+      "sha256": "21f66fe840ee57e9b5d5880b0caf56b544d77a5c67677ec8aee689aaac755e1e"
+    },
+    {
+      "file": "validation_summary.json",
+      "bytes": 469,
+      "sha256": "5ac0277aaec6147ddc548138894c404c235d07340fa406efe2a837f4963e2485"
+    },
+    {
+      "file": "使用说明与核验结论.md",
+      "bytes": 11783,
+      "sha256": "12fb6d171df378cafaeec94a814f2ee28710ec8c1c00de4a2e76605976a96630"
+    },
+    {
+      "file": "全部指标时间规则与纳入依据.csv",
+      "bytes": 22104,
+      "sha256": "9662d87a802b039f924e22e60e2070376b5a7e28bec28f590ce3090501f36a8c"
+    },
+    {
+      "file": "各输入覆盖情况.csv",
+      "bytes": 1022,
+      "sha256": "6b1008b9d7fa59a52649df93fc15d64671e430704a0073e1041cefc495d6072b"
+    },
+    {
+      "file": "基础建模_扩展对齐_v2.csv",
+      "bytes": 623941,
+      "sha256": "4090763ab568e23b3e9ee4a87f1bd671654b57e155f9beaa0dda1a161fc191a8"
+    },
+    {
+      "file": "字段与单位.csv",
+      "bytes": 2781,
+      "sha256": "3ffa0cd670da621c16bcf90bf7273c7a29b410819707679cee7353f4648f1beb"
+    },
+    {
+      "file": "更新记录.md",
+      "bytes": 1703,
+      "sha256": "a0a0fc1abf4614c68eff24d1aad52d028a68e0f1406f81a9535ca7d2ad7d4c7d"
+    },
+    {
+      "file": "每日更新来源_20261013.json",
+      "bytes": 909,
+      "sha256": "538af03c2203c5186a3663389dff06fbe7b0e6979cd9f5f66f8937eaa7f70931"
+    },
+    {
+      "file": "目标日期与目标值审计.csv",
+      "bytes": 773618,
+      "sha256": "f0464fef2aeea699a7f32de4f18342b4ed491f3fec06e88026b2da21aec4efbf"
+    },
+    {
+      "file": "边界日期独立抽查.csv",
+      "bytes": 18959,
+      "sha256": "3db6eb5d92fa72145f7dd43c56efbf806929b253696c0e515b51e77bbe4c77ed"
+    },
+    {
+      "file": "逐行输入来源追溯.csv",
+      "bytes": 24302921,
+      "sha256": "953866b2e9d142043fe94d3f25ca0b84118e3f25f245f26a63e2006f4a61080a"
     }
   ],
   "publication_checks": {
@@ -123,5 +110,8 @@
       "全部指标时间规则与纳入依据.csv"
     ]
   },
-  "note": "路径标签为可移植来源标识，不是在线下载地址。历史核验报告的哈希对应原本地文件；本清单sha256对应实际发布文件。当前时间规则依据文件与历史重建报告哈希不同，变更原因待核验。未重新核验全部原始源文件或新版FAQ合约口径。"
+  "note": "路径标签为可移植来源标识，不是在线下载地址。历史核验报告的哈希对应原本地文件；本清单sha256对应实际发布文件。当前时间规则依据文件与历史重建报告哈希不同，变更原因待核验。未重新核验全部原始源文件或新版FAQ合约口径。 10月13日更新后哈希对应当前发布文件，原核验JSON仍仅为历史记录。",
+  "last_update_date": "2026-10-13",
+  "labels": 4331,
+  "latest_update_validation": "update_validation_20261013.json"
 }

@@ -1,0 +1,19 @@
+{
+  "received_observed_at_utc": "2026-10-13T02:04:29+00:00",
+  "observation_date_assumed": "2026-10-12",
+  "date_basis": "消息发表于10月13日，按前一交易日结算/收盘值解释；用户未单独写明日期",
+  "source": "用户在GitHub管理对话中提供，未独立核验行情提供商/合约身份",
+  "user_message": "布伦特106.65美元（+1.84%），WTI 93.74美元（+2.06%）VIX：15.21 OVX：48.52",
+  "values": {
+    "brent_latest_settlement": "106.65",
+    "wti_latest_futures_settlement": "93.74",
+    "vix_close": "15.21",
+    "ovx_close": "48.52"
+  },
+  "reported_changes_pct": {
+    "brent": 1.84,
+    "wti": 2.06
+  },
+  "availability_note": "接收观察时刻来自本轮读取时钟，不冒充交易所发布时间或消息精确发送时间",
+  "other_inputs": "沿用上一行已记录来源，未重新采集，不能宣称全部输入为最新"
+}

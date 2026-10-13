@@ -4329,4 +4329,5 @@
 2026-10-07,official_ICE_2026_schedule,present,期货结算价(连续)_布伦特原油!B9942,external-source://2026-10/原油国债收益率(1).xlsx
 2026-10-08,official_ICE_2026_schedule,present,期货结算价(连续)_布伦特原油!B9943,external-source://2026-10/原油国债收益率(1).xlsx
 2026-10-09,official_ICE_2026_schedule,present_user_screenshot,Wind截图：2026-10-09行，Brent连续结算价列,project-source://outputs\forecast_update_20261012\用户提供的Wind更新截图.png
-2026-10-12,official_ICE_2026_schedule,source_not_received,,external-source://2026-10/原油国债收益率(1).xlsx
+2026-10-12,official_ICE_2026_schedule,present_user_message_not_independently_verified,values.brent_latest_settlement; observation_date_assumed=2026-10-12,data/aligned/v2/每日更新来源_20261013.json
+2026-10-13,weekday_assumed_next_trade_date_not_rechecked_this_update,source_not_received,,
