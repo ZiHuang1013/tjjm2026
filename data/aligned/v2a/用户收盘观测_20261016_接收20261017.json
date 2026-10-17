@@ -1,0 +1,30 @@
+{
+  "observation_date": "2026-10-16",
+  "received_observed_at_utc": "2026-10-17T03:55:22+00:00",
+  "source": "GitHub管理对话用户2026-10-17消息，未独立核验行情",
+  "values": {
+    "wti_latest_futures_settlement": "97.97",
+    "vix_close": "19.99",
+    "ovx_close": "50.74"
+  },
+  "brent_settlement": null,
+  "wti_clarification": "此前97.97被用户说明为盘中值；本次用户将其明确列为10月16日收盘值，按本次声明记录；不更正10月15日96.50。尚未独立核验对应合约与报价类型。",
+  "weekly_monthly_values": {
+    "us_gasoline_stocks": "208262",
+    "us_distillate_stocks": "102611",
+    "us_refinery_utilization": "93.2",
+    "us_crude_production": "13888",
+    "ny_ultra_low_sulfur_diesel_spot": "5.066",
+    "ny_regular_gasoline_spot": "2.987",
+    "us_crude_imports": "6049",
+    "us_crude_exports": "4570",
+    "us_nonfarm_change_released": "29",
+    "us_cpi_yoy_nsa_released": "3.7",
+    "us_unemployment_rate_released": "4.2"
+  },
+  "weekly_monthly_timing": "与10月16日已收到的用户指标相同，沿用其接收观察时间2026-10-16T03:26:14.236791+00:00，不当作10月16日新产生的日收盘观测；统计期与原始发布时间未提供",
+  "next_target_date": "2026-10-19",
+  "calendar_status": "按周末跳过后的周一暂定；本次未独立复核ICE特殊休市安排",
+  "ready_for_daily_prediction": false,
+  "missing_required_latest_market_value": "2026-10-16 Brent settlement"
+}

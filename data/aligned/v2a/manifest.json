@@ -1,0 +1,85 @@
+{
+  "publication_date": "2026-10-17",
+  "files": [
+    {
+      "file": "independent_validation.json",
+      "bytes": 275,
+      "sha256": "2b488150f02a6d0b5c901be56db45e49a04c7df49ecab5e54b6180b06157e490"
+    },
+    {
+      "file": "publication_validation.json",
+      "bytes": 783,
+      "sha256": "d3be358ac7f9e84ab6cab62f9ac905ca606cbf6abb0e64fe207a9348b15a234f"
+    },
+    {
+      "file": "README.md",
+      "bytes": 4138,
+      "sha256": "9ac5d41485e464e0916b4e0c1b0f5ef61ade9739fa68200d05d1e7922f43207b"
+    },
+    {
+      "file": "reproduction_validation.json",
+      "bytes": 702,
+      "sha256": "301f1408f7ae48659ba03515fd3b42436684755a0b69ead85fb8bc3c5a92b557"
+    },
+    {
+      "file": "validation_summary.json",
+      "bytes": 554,
+      "sha256": "56161a4fd36f775792c4c82f95962450640b0ebe01b6244cae3e17cba0a94fae"
+    },
+    {
+      "file": "假设扩展版使用说明.md",
+      "bytes": 7720,
+      "sha256": "df1e65d085905b83bb356d6900da4c7a6261dbd11545cf87f9e6c5413e94ecfd"
+    },
+    {
+      "file": "全部34项输入来源追溯.csv",
+      "bytes": 45974255,
+      "sha256": "629682cabebabe47af8d77510b24f056b95c33bcb4cf8f52d5ea87247dea0f8c"
+    },
+    {
+      "file": "原始文件对应.csv",
+      "bytes": 5934,
+      "sha256": "92241ca191c3f8c0a70d08558d25c2fc42225f11b7de5ee3cdadbe04a4245917"
+    },
+    {
+      "file": "各输入覆盖情况.csv",
+      "bytes": 1993,
+      "sha256": "9801c9baf9856f8d8d318fc1849c14174b6403b68708a87520b63d82ef295241"
+    },
+    {
+      "file": "基础建模_假设扩展版_v2A.csv",
+      "bytes": 1150026,
+      "sha256": "cc57fffc40e38db9572a8f2997df5a654d5f4ee7aa99a189794e2e7d664079e3"
+    },
+    {
+      "file": "字段与单位.csv",
+      "bytes": 5694,
+      "sha256": "a5c4296b48428bb0d1a158bdf2a5370675e2b826ca9228d09d6e5360b668e025"
+    },
+    {
+      "file": "新增指标假设与风险.csv",
+      "bytes": 14913,
+      "sha256": "9bc79eabaa1ffa70df6c7c642b87a5c23ef9e801c70d5f2c559224671f4e6882"
+    },
+    {
+      "file": "更新记录.md",
+      "bytes": 892,
+      "sha256": "bb43ebcc657c542a94e2cb7f37ae9e17893398709586963e3d55c6787715531a"
+    },
+    {
+      "file": "用户收盘观测_20261016_接收20261017.json",
+      "bytes": 1506,
+      "sha256": "f0b49eac966d68f7c4076f550d6ebfd87f44de40281f22eba167401e53b3dd9d"
+    },
+    {
+      "file": "用户行情与指标更新_20261016.json",
+      "bytes": 2994,
+      "sha256": "5c42d8516d862bddf85cadc25a41432510c6ce58919b910af39bd31fdc677d79"
+    },
+    {
+      "file": "目标日期与目标值审计.csv",
+      "bytes": 774248,
+      "sha256": "cf2e64990a1f6029a9e35df8cc7bca102a1d40a3d6be431b547352cda87d1d58"
+    }
+  ]
+}

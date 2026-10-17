@@ -1,0 +1,12 @@
+{
+  "result": "passed",
+  "identical_files": 6,
+  "sha256": {
+    "基础建模_假设扩展版_v2A.csv": "51f6fa6ab88a6534833df574af6ac86b4f050e9f03f99d7a309f27e179e53529",
+    "新增16项逐行来源追溯.csv": "64f690871df37fc404c394e2e6339332cbe7ae87bac4f5ad68c3c46f082f05ac",
+    "新增指标假设与风险.csv": "3a6c32c02e2eafbcff20cbe2cc675d0b2271588aed98ef3a58112dcd593508f3",
+    "原始文件对应.csv": "5e63e225724c5735a62ee0e554bb97eac4042748d1654ce0bef93b3172c0b562",
+    "字段与单位.csv": "5ed416154e2ddc3503e9a502e6764964386319d7e5d18cf234a4d6d6d411cb64",
+    "新增指标覆盖情况.csv": "7365f1e970bd314e9ce25915862bd4792f311922d768912916653a41dba28668"
+  }
+}

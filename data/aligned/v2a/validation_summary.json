@@ -1,0 +1,16 @@
+{
+  "rows": 4331,
+  "inputs": 34,
+  "columns": 37,
+  "new_inputs": 16,
+  "labels": 4330,
+  "v2_sha256": "3b69365ea898ee763f968f9e126cc345697b51fa598d224f6faba9d5edd76165",
+  "v2_unchanged": true,
+  "v2_columns_preserved": true,
+  "new_trace_rows": 69296,
+  "original32_indicators_covered": true,
+  "missing_source_records_kept": 9407,
+  "all_assumed_times_before_cutoff": true,
+  "actual_no_leakage_certified": false,
+  "competition_rules": "v1.4 section5.10; unadjusted target compatibility pending; inherited v2 target not transformed"
+}

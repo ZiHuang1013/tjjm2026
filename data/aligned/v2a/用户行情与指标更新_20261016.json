@@ -1,0 +1,71 @@
+{
+  "user_update_date": "2026-10-16",
+  "recorded_at_utc": "2026-10-16T03:26:14.236791+00:00",
+  "source": "user messages and existing project archives; market values not independently vendor verified",
+  "market_observations": {
+    "2026-10-12": {
+      "brent": 106.65,
+      "wti": 93.74,
+      "vix": 15.21,
+      "ovx": 48.52,
+      "observed_at_utc": "2026-10-13T02:04:29+00:00",
+      "source": "prior user message; date inferred"
+    },
+    "2026-10-13": {
+      "observation_date": "2026-10-13",
+      "brent": 105.69,
+      "wti": 94.14,
+      "vix": 15.27,
+      "ovx": 48.77,
+      "source": "user_message",
+      "independent_source_certified": false,
+      "recorded_at_utc": "2026-10-14T02:31:13.589333+00:00",
+      "observed_at_utc": "2026-10-14T02:31:13.589333+00:00"
+    },
+    "2026-10-14": {
+      "observation_date": "2026-10-14",
+      "brent": 106.06,
+      "wti": 95.09,
+      "vix": 16.87,
+      "ovx": 48.62,
+      "observed_at_utc": "2026-10-15T01:48:10+00:00",
+      "source": "user_message; inferred previous trading date2026-10-14; assumed same contest settlement sequence; not independently vendor verified",
+      "reported_brent_change_usd": 0.37,
+      "reported_brent_change_pct": 0.35,
+      "reported_wti_change_usd": 0.95,
+      "reported_wti_change_pct": 1.01,
+      "next_target_calendar_confirmed": true,
+      "calendar_basis": "user requested today's2026-10-15 forecast; regular Thursday; no special closure provided"
+    },
+    "2026-10-15": {
+      "observation_date": "2026-10-15",
+      "brent": 105.92,
+      "wti": 96.5,
+      "vix": 16.46,
+      "ovx": 49.13,
+      "observed_at_utc": "2026-10-16T03:17:57+00:00",
+      "source": "user_message; WTI96.502026 parsed as96.50 followed by year2026; assumed same contest settlement sequence, not independently vendor verified",
+      "next_target_calendar_confirmed": true,
+      "calendar_basis": "user requested today2026-10-16 forecast; regular Friday; no special closure provided",
+      "previous_archived_wti": 96.5
+    }
+  },
+  "latest_user_indicators": {
+    "us_gasoline_stocks": "208262",
+    "us_distillate_stocks": "102611",
+    "us_refinery_utilization": "93.2",
+    "us_crude_production": "13888",
+    "ny_ultra_low_sulfur_diesel_spot": "5.066",
+    "ny_regular_gasoline_spot": "2.987",
+    "us_crude_imports": "6049",
+    "us_crude_exports": "4570",
+    "us_nonfarm_change_released": "29",
+    "us_cpi_yoy_nsa_released": "3.7",
+    "us_unemployment_rate_released": "4.2"
+  },
+  "latest_user_wti_reported": "97.97",
+  "latest_user_wti_type": "intraday_price_only; explicitly confirmed by user; not a settlement correction",
+  "selected_20261015_wti": "96.50",
+  "date_policy": "new weekly/monthly observations only used in2026-10-16 input; exact statistical periods and original release times not provided; no historical backfill",
+  "other_inputs": "carry previous known source; not refreshed in this update"
+}

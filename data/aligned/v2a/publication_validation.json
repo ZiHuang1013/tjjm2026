@@ -1,0 +1,21 @@
+{
+  "publication_date": "2026-10-17",
+  "rows": 4336,
+  "columns": 37,
+  "inputs": 34,
+  "known_targets": 4334,
+  "trace_rows": 147424,
+  "date_keys_unique_sorted": true,
+  "trace_values_match": true,
+  "all_recorded_availability_before_cutoff": true,
+  "pre_20261012_inputs_and_labels_preserved": true,
+  "20261012_input_values_preserved": true,
+  "20261016_uses_20261015_market_closes": true,
+  "20261016_closes_only_enter_provisional_20261019": true,
+  "new_macro_values_not_backfilled_before_receipt": true,
+  "20261019_ready_for_prediction": false,
+  "missing_brent_close_date": "2026-10-16",
+  "next_target_calendar_independently_rechecked": false,
+  "market_values_independently_vendor_verified": false,
+  "full_original_source_hash_audit_rerun": false
+}

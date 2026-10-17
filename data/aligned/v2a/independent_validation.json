@@ -1,0 +1,10 @@
+{
+  "result": "passed",
+  "v2_all_columns_identical": true,
+  "new_trace_rows": 69296,
+  "source_files_hash_verified": 4,
+  "independent_boundary_checks": 272,
+  "raw_missing_kept": 9407,
+  "all_assumed_bounds_pass": true,
+  "no_actual_leakage_certification": true
+}
